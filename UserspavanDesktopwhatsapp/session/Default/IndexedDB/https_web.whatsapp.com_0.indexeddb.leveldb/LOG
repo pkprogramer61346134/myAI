@@ -1,0 +1,63 @@
+2024/01/29-19:41:22.057 36cc Reusing MANIFEST C:\Users\pavan\Desktop\whatsapp\UserspavanDesktopwhatsapp\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/29-19:41:22.058 36cc Recovering log #856
+2024/01/29-19:41:22.236 36cc Reusing old log C:\Users\pavan\Desktop\whatsapp\UserspavanDesktopwhatsapp\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000856.log 
+2024/01/29-19:41:22.237 36cc Delete type=2 #846
+2024/01/29-19:41:22.237 36cc Delete type=2 #847
+2024/01/29-19:41:22.237 36cc Delete type=2 #848
+2024/01/29-19:41:22.237 36cc Delete type=2 #849
+2024/01/29-19:41:22.237 36cc Delete type=2 #850
+2024/01/29-19:41:22.237 36cc Delete type=2 #851
+2024/01/29-19:41:22.237 36cc Delete type=2 #852
+2024/01/29-19:41:22.237 36cc Delete type=2 #853
+2024/01/29-19:41:22.237 36cc Delete type=2 #854
+2024/01/29-19:41:22.237 36cc Delete type=2 #857
+2024/01/29-19:41:49.753 1140 Level-0 table #869: started
+2024/01/29-19:41:49.789 1140 Level-0 table #869: 1340750 bytes OK
+2024/01/29-19:41:49.791 1140 Delete type=0 #856
+2024/01/29-19:41:49.894 1038 Compacting 1@1 + 9@2 files
+2024/01/29-19:41:50.094 1038 Generated table #870@1: 87941 keys, 2236375 bytes
+2024/01/29-19:41:50.195 1038 Generated table #871@1: 25390 keys, 2222355 bytes
+2024/01/29-19:41:50.399 1038 Generated table #872@1: 54752 keys, 2217255 bytes
+2024/01/29-19:41:50.491 1038 Generated table #873@1: 18008 keys, 2166758 bytes
+2024/01/29-19:41:50.549 1038 Generated table #874@1: 2161 keys, 2146274 bytes
+2024/01/29-19:41:50.633 1038 Generated table #875@1: 17155 keys, 2212459 bytes
+2024/01/29-19:41:50.763 1038 Generated table #876@1: 35473 keys, 2207500 bytes
+2024/01/29-19:41:50.942 1038 Generated table #877@1: 66867 keys, 2208424 bytes
+2024/01/29-19:41:51.090 1038 Generated table #878@1: 82174 keys, 1910972 bytes
+2024/01/29-19:41:51.090 1038 Compacted 1@1 + 9@2 files => 19528372 bytes
+2024/01/29-19:41:51.091 1038 compacted to: files[ 0 0 9 0 0 0 0 ]
+2024/01/29-19:41:51.092 1038 Delete type=2 #858
+2024/01/29-19:41:51.092 1038 Delete type=2 #859
+2024/01/29-19:41:51.092 1038 Delete type=2 #860
+2024/01/29-19:41:51.092 1038 Delete type=2 #861
+2024/01/29-19:41:51.092 1038 Delete type=2 #862
+2024/01/29-19:41:51.092 1038 Delete type=2 #863
+2024/01/29-19:41:51.092 1038 Delete type=2 #864
+2024/01/29-19:41:51.092 1038 Delete type=2 #865
+2024/01/29-19:41:51.092 1038 Delete type=2 #866
+2024/01/29-19:41:51.092 1038 Delete type=2 #869
+2024/01/29-19:42:11.177 1170 Level-0 table #880: started
+2024/01/29-19:42:11.209 1170 Level-0 table #880: 1126848 bytes OK
+2024/01/29-19:42:11.212 1170 Delete type=0 #868
+2024/01/29-19:42:12.011 1170 Compacting 1@1 + 9@2 files
+2024/01/29-19:42:12.122 1170 Generated table #881@1: 87869 keys, 2238419 bytes
+2024/01/29-19:42:12.199 1170 Generated table #882@1: 25682 keys, 2222180 bytes
+2024/01/29-19:42:12.313 1170 Generated table #883@1: 54685 keys, 2217770 bytes
+2024/01/29-19:42:12.366 1170 Generated table #884@1: 18179 keys, 2165276 bytes
+2024/01/29-19:42:12.410 1170 Generated table #885@1: 2166 keys, 2148795 bytes
+2024/01/29-19:42:12.473 1170 Generated table #886@1: 17028 keys, 2211597 bytes
+2024/01/29-19:42:12.560 1170 Generated table #887@1: 35561 keys, 2208457 bytes
+2024/01/29-19:42:12.670 1170 Generated table #888@1: 66394 keys, 2207622 bytes
+2024/01/29-19:42:12.780 1170 Generated table #889@1: 82735 keys, 1924430 bytes
+2024/01/29-19:42:12.780 1170 Compacted 1@1 + 9@2 files => 19544546 bytes
+2024/01/29-19:42:12.781 1170 compacted to: files[ 0 0 9 0 0 0 0 ]
+2024/01/29-19:42:12.782 1170 Delete type=2 #870
+2024/01/29-19:42:12.782 1170 Delete type=2 #871
+2024/01/29-19:42:12.782 1170 Delete type=2 #872
+2024/01/29-19:42:12.782 1170 Delete type=2 #873
+2024/01/29-19:42:12.782 1170 Delete type=2 #874
+2024/01/29-19:42:12.782 1170 Delete type=2 #875
+2024/01/29-19:42:12.782 1170 Delete type=2 #876
+2024/01/29-19:42:12.782 1170 Delete type=2 #877
+2024/01/29-19:42:12.782 1170 Delete type=2 #878
+2024/01/29-19:42:12.782 1170 Delete type=2 #880

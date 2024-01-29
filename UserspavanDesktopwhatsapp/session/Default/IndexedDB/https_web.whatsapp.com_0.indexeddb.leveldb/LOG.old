@@ -1,0 +1,18 @@
+2024/01/29-19:27:37.656 18b4 Reusing MANIFEST C:\Users\pavan\Desktop\whatsapp\UserspavanDesktopwhatsapp\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/29-19:27:37.666 18b4 Recovering log #844
+2024/01/29-19:27:37.688 18b4 Reusing old log C:\Users\pavan\Desktop\whatsapp\UserspavanDesktopwhatsapp\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000844.log 
+2024/01/29-19:28:19.294 256c Level-0 table #857: started
+2024/01/29-19:28:19.336 256c Level-0 table #857: 1253923 bytes OK
+2024/01/29-19:28:19.338 256c Delete type=0 #844
+2024/01/29-19:28:19.344 256c Compacting 1@1 + 9@2 files
+2024/01/29-19:28:19.497 256c Generated table #858@1: 80131 keys, 2227515 bytes
+2024/01/29-19:28:19.594 256c Generated table #859@1: 34618 keys, 2224282 bytes
+2024/01/29-19:28:19.725 256c Generated table #860@1: 51745 keys, 2213291 bytes
+2024/01/29-19:28:19.808 256c Generated table #861@1: 26292 keys, 2178185 bytes
+2024/01/29-19:28:19.850 256c Generated table #862@1: 2122 keys, 2147063 bytes
+2024/01/29-19:28:19.927 256c Generated table #863@1: 13779 keys, 2196721 bytes
+2024/01/29-19:28:20.091 256c Generated table #864@1: 38480 keys, 2230589 bytes
+2024/01/29-19:28:20.218 256c Generated table #865@1: 55045 keys, 2190456 bytes
+2024/01/29-19:28:20.457 256c Generated table #866@1: 92868 keys, 2153136 bytes
+2024/01/29-19:28:20.457 256c Compacted 1@1 + 9@2 files => 19761238 bytes
+2024/01/29-19:28:20.458 256c compacted to: files[ 0 0 9 0 0 0 0 ]
